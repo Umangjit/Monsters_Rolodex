@@ -1,0 +1,14 @@
+.searchBox input{
+    margin:0px 2px 30px 10px;
+    padding:12px;
+    text-align: center;
+    border-radius: 6px;
+    border:0;
+    outline: 0;
+    letter-spacing: 1px;
+    font-weight: bold; 
+    box-shadow: 2px 0px 8px 1px rgba(37, 55, 75, 0.753);
+  }
+ .searchBox input:hover{
+    filter:invert(4%);
+   }

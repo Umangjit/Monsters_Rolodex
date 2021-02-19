@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+.App {
+  text-align: center;
+  background-image: linear-gradient(to top, #0d2b575d, #0e639525, #008793, #08be7559, #2995408a);
+  overflow-x: hidden;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  /* border:2px solid red; */
+  padding:230px 0px;
+}
+.App >h1{
+  color:#000;
+  margin:40px auto;
+  font-size:4rem;
+  font-family: 'Homemade Apple', cursive;
+  top:2%;
+  left:50%;
+  position: fixed;
+  transform: translateX(-50%);
+}
+ 
+  
+
+
